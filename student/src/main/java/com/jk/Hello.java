@@ -9,5 +9,10 @@ public class Hello {
         System.out.println("ok");
         System.out.println("ok");
         System.out.println("ok");
+        System.out.println("out");
+        System.out.println("out");
+        System.out.println("out");
+        System.out.println("out");
+        System.out.println("out");
     }
 }
