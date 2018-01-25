@@ -5,14 +5,7 @@ package com.jk;
  */
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("ok");
-        System.out.println("ok");
-        System.out.println("ok");
-        System.out.println("ok");
-        System.out.println("out");
-        System.out.println("out");
-        System.out.println("out");
-        System.out.println("out");
-        System.out.println("out");
+        System.out.println("111111111111");
+
     }
 }
